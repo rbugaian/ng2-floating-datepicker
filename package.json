@@ -1,22 +1,22 @@
 {
   "name": "ng2-datepicker-permanent",
   "version": "2.2.4",
-  "main": "./dist/bundles/ng2-datepicker.umd.js",
-  "module": "./dist/ng2-datepicker.es5.js",
-  "es2015": "./dist/ng2-datepicker.js",
-  "typings": "./dist/ng2-datepicker.d.ts",
+  "main": "./dist/bundles/ng2-datepicker-permanent.umd.js",
+  "module": "./dist/ng2-datepicker-permanent.es5.js",
+  "es2015": "./dist/ng2-datepicker-permanent.js",
+  "typings": "./dist/ng2-datepicker-permanent.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bleenco/ng2-datepicker.git"
+    "url": "git+https://github.com/rbugaian/ng2-floating-datepicker.git"
   },
   "authors": [
     "Jan Kuri <jkuri88@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bleenco/ng2-datepicker/issues"
+    "url": "https://github.com/rbugaian/ng2-floating-datepicker/issues"
   },
-  "homepage": "https://github.com/bleenco/ng2-datepicker#readme",
+  "homepage": "https://github.com/rbugaian/ng2-floating-datepicker#readme",
   "scripts": {
     "clean": "rimraf dist dist-app",
     "prestart": "npm run clean",
